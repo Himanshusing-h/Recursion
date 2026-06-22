@@ -21,3 +21,4 @@ public class OneToNUsingGlobalVariable {
     }
 
 }
+//dont use in interview
