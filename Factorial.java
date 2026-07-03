@@ -18,7 +18,7 @@ public class Factorial {
     }
    //applying formula
 
-        int fac= factorial(n - 1) * n;
+        int fac= n*factorial(n - 1) ;
    return fac;
 
     }
